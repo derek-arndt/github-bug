@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="images/testimage.png" width="520" title="logo">
+  <img src="Images/promo.png" width="320" title="logo">
 </p>
+
+### Guides
+* [All]()
+* [Environments](Environments.md)
+* [Environment Sections](Environment%20Sections.md)
+* [Launch](Launch.md)
+* [Levels](Levels.md)
+* [Shark](Shark.md)
+* [Shark Animations](Shark%20Animations.md)
+* [SeaObjects](SeaObjects.md)
 
 ### Clone
 Requires git lfs to be installed
-
-### Guides
-* [All](Assets/Guides/)
-* [Environments](Assets/Guides/Environments.md)
-* [Environment Sections](Assets/Guides/Environment%20Sections.md)
-* [Levels](Assets/Guides/Levels.md)
-* [Shark](Assets/Guides/Shark.md)
-* [SeaObjects](Assets/Guides/SeaObjects.md)
-
-<p align="center">
-  <img src="images/gameplay.gif" width="520" title="logo">
-</p>
